@@ -108,7 +108,7 @@ While there's no reason you cannot use Forms, Native is where MvvmCross really s
 
 To scaffold a new MvvmCross Xamarin application you must use the `mvxnative` command. To specify a name for the projects you can use the `-n|--name` option and `-sln|--solution-name` for the solution name.
 
-___Example command___ to create a projects prefixed with `MyXamarinApp` and a solution file named `MyXamarinApp`
+___Example command___ to create a project prefixed with `MyXamarinApp` and a solution file named `MyXamarinApp`
 
 ```text
 dotnet new mvxnative --name MyXamarinApp --solution-name MyXamarinApp
