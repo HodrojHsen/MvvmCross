@@ -10,7 +10,7 @@ NuGet | Continuous Integration
 
 # Introduction
 
-MvvmCross is a cross-platform MVVM framework that enables developers to create powerful cross platform apps. It supports Xamarin.iOS, Xamarin.Android, Xamarin.Mac, Xamarin.Forms, Universal Windows Platform (UWP) and Windows Presentation Framework (WPF).
+MvvmCross is a cross-platform MVVM framework that enables developers to create powerful cross platform apps. It supports Xamarin.iOS, Xamarin.Android, Xamarin.Mac, Xamarin.Forms, Universal Windows Platform (UWP) and Windows Presentation Foundation (WPF).
 
 The high level features that MvvmCross provides you with are:
 * MVVM architecture pattern
